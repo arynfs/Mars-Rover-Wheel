@@ -31,8 +31,5 @@ Developed in **SolidWorks**, the project includes CAD files, a detailed report w
 3. **Animation**: View using any media player.  
 4. **PDF Report**: Includes material justifications and references.  
 
-## License  
-This project is published under the **MIT License**. Feel free to use and modify it, but please give proper credit.  
-
 ## Acknowledgments  
 This project was created as part of an **academic assignment** related to Mars rover mobility and planetary exploration challenges.  
