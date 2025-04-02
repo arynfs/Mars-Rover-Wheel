@@ -1,4 +1,4 @@
-# 🚀 Mars Rover Spoked Wheel Design 
+# 🚀 Mars Rover Spoked Wheel Design
 
 ## Overview  
 This project presents a **spoked wheel design** optimized for **ERC (European Rover Challenge) and URC (University Rover Challenge)**. The design ensures **stability, traction, and adaptability** for Mars-like terrain, addressing challenges such as **sinking in soft soil, slippage, and high-speed mobility over obstacles**.  
@@ -17,12 +17,13 @@ Developed in **SolidWorks**, the project includes CAD files, a detailed report w
 - **All components available for purchase online in BD**  
 
 ## Files & Structure  
-📂 Mars_Rover_Wheel
-│── 📁 CAD_Files/ # SolidWorks parts, assemblies, and STEP files
-│── 📁 Report/ # Detailed engineering report in PDF
-│── 📁 Animation/ # Exploded view animation/screen recording
-│── 📄 README.md # Project description and documentation
-
+```
+📂 Mars_Rover_Wheel  
+│── 📁 CAD_Files/                 # SolidWorks parts, assemblies, and STEP files  
+│── 📁 Report/                    # Detailed engineering report in PDF  
+│── 📁 Animation/                 # Exploded view animation/screen recording  
+│── 📄 README.md                  # Project description and documentation  
+```
 
 ## Installation & Usage  
 1. **CAD Files**: Open with **SolidWorks 2023 or later**.  
@@ -35,6 +36,3 @@ This project is published under the **MIT License**. Feel free to use and modify
 
 ## Acknowledgments  
 This project was created as part of an **academic assignment** related to Mars rover mobility and planetary exploration challenges.  
-
----
-
